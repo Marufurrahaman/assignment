@@ -1,0 +1,136 @@
+body {
+  margin: 0px;
+}
+.head_all {
+  border-left: 6px solid rgba(9, 153, 33, 0.801);
+  padding-left: 5px;
+}
+
+.half-side {
+  width: 40%;
+  margin: 50px;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+  display: block;
+}
+.first-section {
+  display: flex;
+  margin: 50px;
+}
+
+.btn-explore {
+  color: white;
+  background-color: tomato;
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+.mymission {
+  font-size: 25px;
+  text-align: center;
+  color: tomato;
+}
+.mission2022 {
+  color: rgba(42, 11, 128, 0.856);
+}
+.clr_head {
+  color: rgb(14, 233, 211);
+}
+.illustrator_one {
+  width: 26.6%;
+  margin: 40px;
+  border-radius: 15px;
+  background-color: rgb(13, 221, 107);
+  padding: 15px;
+}
+.illustrator_two {
+  width: 26.6%;
+  margin: 40px;
+  border-radius: 15px;
+  background-color: rgb(221, 89, 13);
+  padding: 15px;
+}
+.illustrator_three {
+  width: 26.6%;
+  margin: 40px;
+  border-radius: 15px;
+  background-color: rgb(75, 13, 221);
+  padding: 15px;
+}
+.illustrator_img {
+  height: 150px;
+  width: 150px;
+}
+.img_code {
+  width: 400px;
+  height: 400px;
+  padding: 60px;
+}
+
+.code_d {
+  width: 60%;
+}
+.code_dd {
+  width: 30%;
+  padding-top: 80px;
+  margin: 20px;
+}
+.code_section {
+  display: flex;
+  margin: 15px;
+  padding: 100px;
+  background-image: url(./picture/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+.codebutton {
+  color: white;
+  background-color: tomato;
+  border: none;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.footer {
+  height: 100px;
+  background-color: rgb(42, 36, 133);
+  text-align: center;
+  justify-content: center;
+}
+
+.footer h1,
+p {
+  margin: 0;
+}
+
+.footer h1 {
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.covidone {
+  text-align: center;
+  font-size: 50px;
+}
+.covid {
+  color: crimson;
+}
+.code_covid {
+  display: flex;
+  margin: 15px;
+  padding: 100px;
+}
+.stay {
+  text-align: center;
+  font-size: 50px;
+}
+.safe {
+  color: darkcyan;
+}
